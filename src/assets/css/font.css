@@ -1,0 +1,135 @@
+@font-face {
+  font-family: "Oxanium Regular";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium Regular"),
+    url("../font/Oxanium/Oxanium-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium ExtraLight";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium ExtraLight"),
+    url("../font/Oxanium/Oxanium-ExtraLight.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium ExtraLight";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium ExtraLight"),
+    url("../font/Oxanium/Oxanium[wght].woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium Light";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium Light"),
+    url("../font/Oxanium/Oxanium-Light.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium Medium";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium Medium"),
+    url("../font/Oxanium/Oxanium-Medium.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium SemiBold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium SemiBold"),
+    url("../font/Oxanium/Oxanium-SemiBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium Bold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium Bold"),
+    url("../font/Oxanium/Oxanium-Bold.woff") format("woff");
+}
+
+@font-face {
+  font-family: "Oxanium ExtraBold";
+  font-style: normal;
+  font-weight: normal;
+  src: local("Oxanium ExtraBold"),
+    url("../font/Oxanium/Oxanium-ExtraBold.woff") format("woff");
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-Thin.woff2") format("woff2");
+  font-weight: 100;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-ExtraLight.woff2") format("woff2");
+  font-weight: 200;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-Light.woff2") format("woff2");
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-Regular.woff2") format("woff2");
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-Medium.woff2") format("woff2");
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-SemiBold.woff2") format("woff2");
+  font-weight: 600;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-Bold.woff2") format("woff2");
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-ExtraBold.woff2") format("woff2");
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: Vazirmatn;
+  src: url("../font/Vazir/Vazirmatn-Black.woff2") format("woff2");
+  font-weight: 900;
+  font-style: normal;
+  font-display: swap;
+}
