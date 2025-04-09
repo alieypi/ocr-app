@@ -8,26 +8,14 @@ export {}
 /* prettier-ignore */
 declare module 'vue' {
   export interface GlobalComponents {
-    HelloWorld: typeof import('./src/components/HelloWorld.vue')['default']
-    IconCommunity: typeof import('./src/components/icons/IconCommunity.vue')['default']
-    IconDocumentation: typeof import('./src/components/icons/IconDocumentation.vue')['default']
-    IconEcosystem: typeof import('./src/components/icons/IconEcosystem.vue')['default']
-    IconSupport: typeof import('./src/components/icons/IconSupport.vue')['default']
-    IconTooling: typeof import('./src/components/icons/IconTooling.vue')['default']
     OCR: typeof import('./src/components/OCR.vue')['default']
     RouterLink: typeof import('vue-router')['RouterLink']
     RouterView: typeof import('vue-router')['RouterView']
-    TheWelcome: typeof import('./src/components/TheWelcome.vue')['default']
     UApp: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/App.vue')['default']
     UButton: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Button.vue')['default']
-    UButtonGroup: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/ButtonGroup.vue')['default']
     UCard: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Card.vue')['default']
-    UContainer: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Container.vue')['default']
     ULinkBase: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/LinkBase.vue')['default']
-    UProgress: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Progress.vue')['default']
     USelect: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Select.vue')['default']
     UTextarea: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Textarea.vue')['default']
-    UTooltip: typeof import('./node_modules/@nuxt/ui/dist/runtime/components/Tooltip.vue')['default']
-    WelcomeItem: typeof import('./src/components/WelcomeItem.vue')['default']
   }
 }
