@@ -34,3 +34,5 @@ This is a simple web-based OCR (Optical Character Recognition) application built
    چند لحظه منتظر بمانید تا پردازش انجام شود
 3. View and copy the extracted text  
    متن استخراج‌شده را ببینید و کپی کنید
+
+---
